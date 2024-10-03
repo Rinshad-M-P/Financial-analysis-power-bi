@@ -1,0 +1,1 @@
+This dashboard provides an interactive overview of financial data, including key metrics, trends, and insights. It is designed to help users understand the overall financial performance of a business or organization.
